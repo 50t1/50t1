@@ -7,9 +7,7 @@
 
 - **I can code**
 
-- 
 
-- 
 ---
 
 <h4 align="center">- Tools/Languages -</h4>
