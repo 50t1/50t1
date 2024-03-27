@@ -6,7 +6,7 @@
 
 
 
-I'm **Yassine**. I coding random things when im bored. I'm currently learning cybersecurity to join Red Team.
+I'm **Yassine**. I code random things when im bored. I'm currently learning cybersecurity to join Red Team.
 
 
  Milestones:
